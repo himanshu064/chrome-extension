@@ -1,6 +1,6 @@
 # Chrome Extension
 
-This Chrome extension is built for managing and securely viewing your saved passwords. With PassVault, logged-in users can quickly access their stored credentials for various websites. This extension is developed using Vite.js, Material-UI, and Tailwind CSS for a sleek and responsive design.
+This Chrome extension is built for managing and securely viewing your saved passwords. With this chrome extension logged-in users can quickly access their stored credentials for various websites. This extension is developed using Vite.js, Material-UI, and Tailwind CSS for a sleek and responsive design.
 
 ## Preview
 
