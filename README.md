@@ -55,7 +55,7 @@ If you make changes to the layout or functionality and want to test the updated 
 
 2. Locate the `dist` directory created after the build. This is your extension package.
 
-3. Open Google Chrome and go to [Chrome Extensions](chrome://extensions/)
+3. Open Google Chrome and go to [chrome://extensions/](chrome://extensions/)
 
 4. Enable **"Developer Mode"** in the top right corner.
 
